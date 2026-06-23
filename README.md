@@ -1,4 +1,6 @@
 # Retail-Sales-Analysis
+End-to-end data analytics project leveraging Python, MySQL, SQL, and Power BI to uncover sales trends, customer behavior, and profitability insights through interactive dashboards and business analysis.
+
 # 🛒 Retail Sales Analysis
 
 An end-to-end data analytics project focused on uncovering sales trends, customer behavior, and regional performance using Python, MySQL, SQL, and Power BI.
